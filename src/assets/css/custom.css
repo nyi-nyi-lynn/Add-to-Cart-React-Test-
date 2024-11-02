@@ -1,0 +1,11 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+
+body{
+    padding-bottom: 50px; 
+}
+
+.item-img img{
+    max-height: 100px;
+}
